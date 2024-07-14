@@ -7,7 +7,7 @@
 	<packaging>war</packaging>	
 	<version>0.0.2-SNAPSHOT</version> 
 
-	<!-- It is only through pain  -->
+	<!-- It is -->
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
