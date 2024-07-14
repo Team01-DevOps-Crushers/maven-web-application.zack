@@ -4,10 +4,10 @@
 	<!-- build triggers -->
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
-	<packaging>war</packaging>
-	
+	<packaging>war</packaging>	
 	<version>0.0.2-SNAPSHOT</version> 
-	
+
+	<!-- It is only through pain that humans can be able to understand each other -->
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
